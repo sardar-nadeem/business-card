@@ -1,0 +1,17 @@
+/* .pricing {
+ 
+    display: flex   ;
+} */
+
+
+
+ /* .flex-container{     
+    display: flex;
+} */
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px; /* Space between items */
+  }
+  
